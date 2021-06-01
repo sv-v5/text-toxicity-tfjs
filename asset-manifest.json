@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/text-toxicity-tfjs/static/css/main.ecd23e3e.chunk.css",
+    "main.js": "/text-toxicity-tfjs/static/js/main.d16ee21e.chunk.js",
+    "main.js.map": "/text-toxicity-tfjs/static/js/main.d16ee21e.chunk.js.map",
+    "runtime-main.js": "/text-toxicity-tfjs/static/js/runtime-main.0ed7a811.js",
+    "runtime-main.js.map": "/text-toxicity-tfjs/static/js/runtime-main.0ed7a811.js.map",
+    "static/js/2.ad4db4e1.chunk.js": "/text-toxicity-tfjs/static/js/2.ad4db4e1.chunk.js",
+    "static/js/2.ad4db4e1.chunk.js.map": "/text-toxicity-tfjs/static/js/2.ad4db4e1.chunk.js.map",
+    "static/js/3.331efc79.chunk.js": "/text-toxicity-tfjs/static/js/3.331efc79.chunk.js",
+    "static/js/3.331efc79.chunk.js.map": "/text-toxicity-tfjs/static/js/3.331efc79.chunk.js.map",
+    "index.html": "/text-toxicity-tfjs/index.html",
+    "static/css/main.ecd23e3e.chunk.css.map": "/text-toxicity-tfjs/static/css/main.ecd23e3e.chunk.css.map",
+    "static/js/2.ad4db4e1.chunk.js.LICENSE.txt": "/text-toxicity-tfjs/static/js/2.ad4db4e1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/text-toxicity-tfjs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ed7a811.js",
+    "static/js/2.ad4db4e1.chunk.js",
+    "static/css/main.ecd23e3e.chunk.css",
+    "static/js/main.d16ee21e.chunk.js"
+  ]
+}
