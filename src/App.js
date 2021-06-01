@@ -29,7 +29,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Demo tfjs Classifier Running in the Browser.
+          Demo tfjs Classifier Running in the Browser
         </p>
         
       </header>
@@ -49,27 +49,3 @@ function App() {
 }
 
 export default App;
-
-
-
-
-// function App() {
-//   const [value, setValue] = useState("");
-//   const predictions = useTextToxicity(value);
-
-//   return (
-//     <div style={{ display: "flex" }}>
-//       <div>
-//         <div>Write something</div>
-//         <textarea
-//           style={{ width: 300, height: 200 }}
-//           value={value}
-//           onChange={(e) => setValue(e.target.value)}
-//         />
-//       </div>
-//       {value && <Toxicity predictions={predictions} />}
-//     </div>
-//   );
-// }
-
-// export default App;
