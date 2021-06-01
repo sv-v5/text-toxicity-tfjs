@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/text-toxicity-tfjs/static/css/main.ecd23e3e.chunk.css",
-    "main.js": "/text-toxicity-tfjs/static/js/main.d16ee21e.chunk.js",
-    "main.js.map": "/text-toxicity-tfjs/static/js/main.d16ee21e.chunk.js.map",
+    "main.js": "/text-toxicity-tfjs/static/js/main.85c55c86.chunk.js",
+    "main.js.map": "/text-toxicity-tfjs/static/js/main.85c55c86.chunk.js.map",
     "runtime-main.js": "/text-toxicity-tfjs/static/js/runtime-main.0ed7a811.js",
     "runtime-main.js.map": "/text-toxicity-tfjs/static/js/runtime-main.0ed7a811.js.map",
     "static/js/2.ad4db4e1.chunk.js": "/text-toxicity-tfjs/static/js/2.ad4db4e1.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0ed7a811.js",
     "static/js/2.ad4db4e1.chunk.js",
     "static/css/main.ecd23e3e.chunk.css",
-    "static/js/main.d16ee21e.chunk.js"
+    "static/js/main.85c55c86.chunk.js"
   ]
 }
