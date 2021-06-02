@@ -1,7 +1,7 @@
 import './App.css';
 import logo from './logo.svg';
 import React, { Fragment, useState } from "react";
-import useTextToxicity from "react-text-toxicity";
+import useTextToxicity from "text-toxicity-tfjs";
 
 
 function Toxicity({ predictions }) {
