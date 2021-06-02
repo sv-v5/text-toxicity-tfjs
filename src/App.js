@@ -13,7 +13,7 @@ function Toxicity({ predictions }) {
     <div style={style}>
       {predictions.map(({ label, match, probability }) => (
         <div style={{ margin: 5 }} key={label}>
-          {`${label} - ${probability} - ${match ? "☣️" : "❤️"}`}
+          {`${label} - ${probability} ${match ? "☣️" : " "}`}
         </div>
       ))}
     </div>
