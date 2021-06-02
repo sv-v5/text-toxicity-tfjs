@@ -3,7 +3,7 @@ import * as toxicity from "@tensorflow-models/toxicity";
 
 export default function useTextToxicity(
   text,
-  { threshold = 0.9, delay = 300 } = {}
+  { threshold = 0.75, delay = 1000 } = {}
 ) {
   const [predictions, setPredictions] = useState(null);
   const model = useRef();
